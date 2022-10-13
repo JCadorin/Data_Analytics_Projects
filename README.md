@@ -36,5 +36,5 @@ will be excluded from the analysis process.
 
 The Data was cleaned using python and all the process is registered in the file Data_Analysis_Process.ipynb
 
-[Rides by Month](rides_by_month.png)
+![Rides by Month](rides_by_month.png)
 https://github.com/JCadorin/Data_Analytics_Projects/blob/e352b3bc133c5cb320f458e82018eccea2a5d94d/rides_by_month.png
