@@ -32,7 +32,7 @@ service, from the period of August 2020 to July 2021, available to the public, s
 and will be used to explore how different customer types are using Cyclistic bikes. Following data-privacy, all riders’ personally identifiable information 
 will be excluded from the analysis process. 
 
-The Data was cleaned using python and all the process is registered in the file: [Data Analysis Process](Data_Analysis_Process.ipynb)
+The Data was cleaned using python and all the process is registered in the file: [Data Cleaning Process](Data_Cleaning.ipynb)
 
 ---------------------------
 Conclusion
