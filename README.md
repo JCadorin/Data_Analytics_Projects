@@ -49,7 +49,7 @@ Conclusion
  - Responsible for 40% of our Rides in the Past 12 Months
  - Strong Usage on Weekend
  - The only who uses Docked Bike
- - Usage Frequency is smoothly all day 
+ - Usage Frequency is smooth all day long 
 
 #### Casual Riders
 
