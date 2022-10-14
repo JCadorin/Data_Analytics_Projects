@@ -81,7 +81,7 @@ Analysis
 The Graph below shows the count of rides by each type of member in the past 12 months,  
 The curve is a bit less drastic within member users usage than the casuals ones and there's a great correlation between the  
 bike usages and the seasons of the year,   
-The blue section on the graphs shows the average temperature on Chicago.  
+The blue section on the graphs shows the average temperature in Chicago.  
 ![Rides by Month](ride_by_month.png)  
 
 The Stations are used almost in the same way by all customer's type,  
