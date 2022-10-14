@@ -82,7 +82,7 @@ The Graph below shows the count of rides by each type of member in the past 12 m
 The curve is a bit less drastic within member users usage than the casuals ones and there's a great correlation between the  
 bike usages and the seasons of the year,   
 The blue section on the graphs shows the average temperature on Chicago.  
-![Rides by Month](rides_by_month.png)  
+![Rides by Month](ride_by_month.png)  
 
 The Stations are used almost in the same way by all customer's type,  
 They use to start their ride more in the center of city,  
@@ -109,4 +109,4 @@ The casual riders have the usage spreaded smoothly all day long,
 While our members shows a good concentration on their started rides at rush hour (08h and 17h) on weekday,  
 But seems they have similar conduct as the casual on weekend.
 
-![Usage by Hour](usage_by_hour.png)
+![Usage by Hour](ride_by_hour.png)
