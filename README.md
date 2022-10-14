@@ -94,7 +94,7 @@ Average Rides length differs from each type of customers,
 Cyclistic members apparently do short rides,  
 The average is lower than casual riders, who may prefer to do longer rides.
 
-![Len Avg])avg_length.png(
+![Len Avg](length_Avg.png)
 
 The graph suggests that clients have differents preferences on the weekday usage,  
 On the member choices the week days fits best to them, wednesday is the highest peak,  
